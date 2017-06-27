@@ -1,0 +1,35 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "RDH full-stack developer portfolio",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdhenderson/portfolio.git"
+  },
+  "keywords": [
+    "express",
+    "portfolio",
+    "bootstrap"
+  ],
+  "author": "Reid Henderson <reid.henderson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdhenderson/portfolio/issues"
+  },
+  "engines": {
+    "node": "8.1.0",
+    "npm": "5.0.4"
+  },
+  "homepage": "https://github.com/rdhenderson/portfolio#readme"
+}
